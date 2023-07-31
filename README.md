@@ -24,5 +24,15 @@ width="50" />
 </p>
 
 
+<br>
+
+En el informe **Análisis Programas Electorales** del directorio  encontrarás todos los análisis y gráficas explicadas así como las conclusiones de cada uno de los partidos. 
+
+<br>
+
+**¡Espero que te guste!**
+
+
+
 
 
