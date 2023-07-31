@@ -8,7 +8,7 @@ Sobre el proyecto:
 <br>
 
 La estructura del directorio es la siguiente:
-- Data: Data: contiene todos los conjuntos de datos.
+- Data: contiene los programas electorales.
 - Scripts: contiene los scripts de R.
 - Visualization: contiene los gráficos obtenidos a través del análisis exploratorio de variables, así como el mapa creado con la clusterización.
 
