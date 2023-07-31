@@ -1,21 +1,20 @@
-# Electoral-programs
-NLP Analysis of the electoral programs of the four main parties in the July 23, 2023, general elections in Spain. 
+# Programas electorales
+Análisis NLP de los programas electorales de los cuatro partidos principales en las elecciones generales de España del 23 de julio de 2023. 
 
-
-About the project:
+Sobre el proyecto:
 -------------------
+-   El objetivo principal de este proyecto es profundizar más allá del contenido superficial y comprender cómo se transmiten los mensajes políticos, la naturaleza de sus propuestas y las disparidades entre los diferentes grupos políticos en España.
 
--   The main objective of this project is to delve beyond the surface-level content and comprehend how political messages are conveyed, the nature of their proposals, and the disparities between different political groups in Spain.
--   A second part will include twitter sentiment analysis, which will be uploaded in a different repository.
+<br>
 
-The directory structure is as follows:
-- Data: contains all the datasets.
-- Scripts: contains the R scripts.
-- Visualization: contains the graphs obtained through exploratory analysis of variables, as well as the map created with clusterization.
+La estructura del directorio es la siguiente:
+- Data: Data: contiene todos los conjuntos de datos.
+- Scripts: contiene los scripts de R.
+- Visualization: contiene los gráficos obtenidos a través del análisis exploratorio de variables, así como el mapa creado con la clusterización.
 
 
 <br>
-In the following link you will find the Linkedin post: 
+En el siguiente enlace encontrarás la publicación de Linkedin: 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/paulaparejaram%C3%ADrez/" onclick="window.open(this.href, '_blank'); return false;">
