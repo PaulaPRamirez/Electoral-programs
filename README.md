@@ -17,7 +17,7 @@ La estructura del directorio es la siguiente:
 En el siguiente enlace encontrarás la publicación de Linkedin: 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paulaparejaram%C3%ADrez/" onclick="window.open(this.href, '_blank'); return false;">
+<a href="https://www.linkedin.com/posts/paulaparejaram%C3%ADrez_an%C3%A1lisis-programas-electorales-23j-activity-7088856028313714688-uPYo?utm_source=share&utm_medium=member_desktop" onclick="window.open(this.href, '_blank'); return false;">
     <img align="center" src="https://github.com/PaulaPRamirez/Bio/blob/46abd9c0e5bb919e13b90b2fa885767e5708b0ac/Logo_LinkedIn.png" alt="PaulaPRamírez" height="50" 
 width="50" />
   </a>
